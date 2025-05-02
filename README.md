@@ -15,7 +15,7 @@ inspired by the sequencing mode of the famous chase bliss’ thermae pedal.
 in the maiden [REPL](https://monome.org/docs/norns/image/wifi_maiden-images/install-repl.png), type:
 
 ```
-;install https://github.com/andr-ew/ndls/releases/download/latest/complete-source-code.zip
+;install
 ```
 
 ## documentation
