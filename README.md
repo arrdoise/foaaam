@@ -1,6 +1,6 @@
 <h1 align="center">foaaam</h1>
 a bubbly pitch-shifting delay/looper, with live performance and looper modes. 
-inspired by the sequencing mode of the famous chase bliss thermae pedal.
+inspired by the sequencing mode of the famous chase bliss thermae pedal, foaaam lets you define two pitch intervals and two step durations to creates a 3-step pitch sequence, created by changing the delay timing.
 
 watch a demo: - https://instagram.com/arrdoise
 
