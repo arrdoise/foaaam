@@ -1,6 +1,9 @@
 <h1 align="center">foaaam</h1>
-a bubbly pitch-shifting delay/looper, with live performance and looper modes. 
-inspired by the sequencing mode of the famous chase bliss thermae pedal, foaaam lets you define two pitch intervals and two step durations to creates a 3-step pitch sequence, created by changing the delay timing.
+
+![foaaam norns main screen image, bubbles](/doc/foaaam_mainscreen.png)
+a bubbly pitch-shifting delay/looper, with live performance and looper modes. inspired by the sequencing mode of the famous chase bliss thermae pedal. 
+
+foaaam lets you define two pitch intervals and two step durations to creates a 3-step pitch sequence, created by changing the delay timing.
 
 watch a demo: - https://instagram.com/arrdoise
 
@@ -17,12 +20,15 @@ watch a demo: - https://instagram.com/arrdoise
 in the maiden [REPL](https://monome.org/docs/norns/image/wifi_maiden-images/install-repl.png), type:
 
 ```
-;install
+;install https://github.com/arrdoise/foaaam/releases/download/v1.0.0/foaaam.zip
 ```
 
 ## documentation
 **norns controls**
 
+![foaaam norns control documentation image, norns screen](/doc/norns_controls.png)
 
 **grid controls**
+
+![foaaam grid control documentation image, grid diagram](/doc/grid_128_controls.png)
 
