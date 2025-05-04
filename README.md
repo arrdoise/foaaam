@@ -22,7 +22,7 @@ watch a demo: - https://instagram.com/arrdoise
 in the maiden [REPL](https://monome.org/docs/norns/image/wifi_maiden-images/install-repl.png), type:
 
 ```
-;install https://github.com/arrdoise/foaaam/releases/download/v1.0.0/foaaam.zip
+;install https://github.com/arrdoise/foaaam
 ```
 
 ## documentation
