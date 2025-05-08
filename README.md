@@ -6,8 +6,7 @@ a bubbly pitch-shifting delay/looper, with live performance and looper modes. in
 foaaam lets you define two pitch intervals and two step durations to creates a 3-step pitch sequence, created by changing the delay timing.
 
 watch demos: 
-
-- https://instagram.com/arrdoise
+- https://instagram.com/arrdoise
 - https://www.instagram.com/p/DJUqNMNt9DY/ (awesome demo by @sprngwell, thanks a lot again!)
 - https://www.instagram.com/p/DJYiBXTNPHU/ (another magical demo by @sprngwell)
 
